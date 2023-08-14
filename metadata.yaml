@@ -1,0 +1,33 @@
+_repo: Common-poisonous-plants-of-New-England_71397
+_version: 0.0.1
+contributor:
+  photographer:
+    agent_name: Youngken, Dean
+    gutenberg_agent_id: '56207'
+    url: http://www.gutenberg.org/2009/agents/56207
+creator:
+  authors:
+  - agent_name: Heber W. Youngken, Jr.
+    gutenberg_agent_id: '56205'
+    url: http://www.gutenberg.org/2009/agents/56205
+  - agent_name: Karas, Joseph S.
+    gutenberg_agent_id: '56206'
+    url: http://www.gutenberg.org/2009/agents/56206
+description: ''
+gutenberg_issued: '2023-08-13'
+identifiers:
+  gutenberg: '71397'
+language: en
+pgterms:marc905: 20201121152033youngkenjr
+pgterms:marc906: '1964'
+pgterms:marc907: US
+production_note: Lisa Corcoran, Stephen Hutcheson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aWashington DC :$bU. S. Government Printing Office, $c1964.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Common poisonous plants of New England
+url: http://www.gutenberg.org/ebooks/71397
