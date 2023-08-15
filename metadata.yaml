@@ -5,6 +5,9 @@ contributor:
     agent_name: Youngken, Dean
     gutenberg_agent_id: '56207'
     url: http://www.gutenberg.org/2009/agents/56207
+covers:
+- cover_type: archival
+  image_path: 71397-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Heber W. Youngken, Jr.
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '56206'
     url: http://www.gutenberg.org/2009/agents/56206
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71397#Common-poisonous-plants-of-New-England
 gutenberg_issued: '2023-08-13'
 identifiers:
   gutenberg: '71397'
